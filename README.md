@@ -1,3 +1,4 @@
+CRUD
 Este programa é um sistema de gestão de transações de uma conta banc´ria essoal no qual os dados são de transações e possuem seu valor,a categira do gasto e seu ID. O objetivo é completar esse sitema CRUD simples para ver dados de transação da sua conta pessoal, criar, editar e excluir transações. Também deve fazer com que o programa NUNCA pare, ou seja, caso ocorra um possível erro, deve validar as entradas, detectar erros e avisar o usuário, mas oprograma não deve parar.
 
 As funções que geram os dados e criam a interface do sistema já estão prontas. Por favor não as altere.
